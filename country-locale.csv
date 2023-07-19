@@ -1,0 +1,515 @@
+language,locale,currencyCode
+Arabic (United Arab Emirates),ar-AE,
+Arabic,ar,
+Arabic (Bahrain),ar-BH,BHD
+Arabic (Egypt),ar-EG,EGP
+Arabic (Djibouti),ar-DJ,DJF
+Arabic (Western Sahara),ar-EH,MAD
+Arabic (Algeria),ar-DZ,DZD
+Arabic (Iraq),ar-IQ,IQD
+Arabic (Eritrea),ar-ER,ERN
+Arabic (Israel),ar-IL,ILS
+Arabic (Iraq),ar-IQ,IQD
+Arabic (Jordan),ar-JO,JOD
+Arabic (Kuwait),ar-KW,KWD
+Arabic (Jordan),ar-JO,JOD
+Arabic (Lebanon),ar-LB,LBP
+Arabic (Morocco),ar-MA,MAD
+Arabic (Libya),ar-LY,LYD
+Arabic (Mauritania),ar-MR,MRU
+Arabic (Palestinian Territories),ar-PS,
+Arabic (Oman),ar-OM,OMR
+Arabic (Qatar),ar-QA,QAR
+Arabic (Comoros),ar-KM,
+Arabic (Sudan),ar-SD,
+Arabic (Saudi Arabia),ar-SA,SAR
+Arabic (South Sudan),ar-SS,SSP
+Arabic (Syria),ar-SY,
+Arabic (Somalia),ar-SO,XOF
+Arabic (Chad),ar-TD,XAF
+Arabic (Tunisia),ar-TN,TND
+Assamese,as,
+Arabic (Yemen),ar-YE,YER
+Assamese (India),as-IN,INR
+Asu (Tanzania),asa-TZ,
+Azerbaijani,az,AZN
+Azerbaijani (Cyrillic),az-Cyrl,AZN
+Asu,asa,
+Azerbaijani (Cyrillic, Azerbaijan),AZN
+Azerbaijani (Latin, Azerbaijan),AZN
+Basaa (Cameroon),bas-CM,XAF
+Azerbaijani (Latin),az-Latn,AZN
+Bemba,bem,
+Belarusian,be,BYN
+Basaa,bas,
+Belarusian (Belarus),be-BY,BYN
+Bemba (Zambia),bem-ZM,ZMW
+Bena,bez,
+Bena (Tanzania),bez-TZ,
+Bulgarian (Bulgaria),bg-BG,BGN
+Bulgarian,bg,BGN
+Bambara,bm,
+Bangla;(bn),bn,
+Bambara (Mali),bm-ML,XOF
+Bengali (Bangladesh),bn-BD,BDT
+Bengali,bn,
+Bangla (Bangladesh),bn-BD,BDT
+Bengali (India),bn-IN,INR
+Bangla (India),bn-IN,INR
+Tibetan (China),bo-CN,CNY
+Tibetan (India),bo-IN,INR
+Breton,br,
+Tibetan,bo,
+Breton (France),br-FR,EUR
+Bodo (India),brx-IN,INR
+Bodo,brx,
+Bosnian (Cyrillic),bs-Cyrl,
+Bosnian (Cyrillic, Bosnia &amp; Herzegovina),
+Bosnian,bs,
+Bosnian (Latin),bs-Latn,
+Bosnian (Latin, Bosnia &amp; Herzegovina),
+Catalan (Spain),ca-ES,EUR
+Catalan (Andorra),ca-AD,EUR
+Catalan (France),ca-FR,EUR
+Catalan,ca,
+Catalan (Italy),ca-IT,EUR
+Chechen (Russia),ce-RU,
+Chiga (Uganda),cgg-UG,UGX
+Cherokee (United States),chr-US,
+Chiga;(cgg),cgg,
+Chechen;(ce),ce,
+Czech,cs,
+Cherokee,chr,
+Czech (Czech Republic),cs-CZ,
+Welsh,cy,
+Welsh (United Kingdom),cy-GB,
+Danish (Denmark),da-DK,DKK
+Danish,da,
+Taita (Kenya),dav-KE,KES
+Taita,dav,
+German,de,
+German (Austria),de-AT,EUR
+German (Switzerland),de-CH,CHE
+German (Germany),de-DE,EUR
+German (Italy),de-IT,EUR
+German (Belgium),de-BE,EUR
+German (Liechtenstein),de-LI,CHF
+Zarma,dje,
+German (Luxembourg),de-LU,EUR
+German (Luxembourg),de-LU,EUR
+Zarma (Niger),dje-NE,
+Lower Sorbian,dsb,
+Lower Sorbian (Germany),dsb-DE,EUR
+Jola-Fonyi,dyo,
+Duala (Cameroon),dua-CM,XAF
+Duala;,dua,
+Jola-Fonyi (Senegal),dyo-SN,XOF
+Dzongkha,dz,
+Dzongkha (Bhutan),dz-BT,BTN
+Embu,ebu,
+Embu (Kenya),ebu-KE,KES
+Ewe;(ee),ee,
+Ewe (Togo),ee-TG,XOF
+Greek,el,
+Greek (Cyprus),el-CY,EUR
+Ewe (Ghana),ee-GH,GHS
+Greek (Greece),el-GR,EUR
+English (Antigua &amp; Barbuda),en-AG,
+English,en,
+English (Anguilla),en-AI,XCD
+English (American Samoa),en-AS,USD
+English (Anguilla),en-AI,XCD
+English (Australia),en-AU,AUD
+English (Australia),en-AU,AUD
+English (Austria),en-AT,EUR
+English (Barbados),en-BB,BBD
+English (Burundi),en-BI,BIF
+English (Belgium),en-BE,EUR
+English (Bermuda),en-BM,BMD
+English (Botswana),en-BW,BWP
+English (Bahamas),en-BS,
+English (Canada),en-CA,CAD
+English (Belize),en-BZ,BZD
+English (Canada),en-CA,CAD
+English (Cocos [Keeling] Islands),en-CC,
+English (Switzerland),en-CH,CHE
+English (Cook Islands),en-CK,
+English (Christmas Island),en-CX,AUD
+English (Cameroon),en-CM,XAF
+English (Germany),en-DE,EUR
+English (Cyprus),en-CY,EUR
+English (Diego Garcia),en-DG,
+English (Denmark),en-DK,DKK
+English (Dominica),en-DM,XCD
+English (Eritrea),en-ER,ERN
+English (Fiji);,en-FJ,FJD
+English (Finland),en-FI,EUR
+English (Falkland Islands),en-FK,
+English (Micronesia),en-FM,
+English (United Kingdom),en-GB,
+English (United Kingdom),en-GB,
+English (Guernsey),en-GG,GBP
+English (Grenada),en-GD,XCD
+English (Ghana),en-GH,GHS
+English (Gibraltar),en-GI,GIP
+English (Gambia);,en-GM,
+English (Guyana),en-GY,GYD
+English (Hong Kong SAR China);,en-HK,CNY
+English (Guam),en-GU,USD
+English (Ireland),en-IE,EUR
+English (Isle of Man),en-IM,GBP
+English (Ireland),en-IE,EUR
+English (Israel);,en-IL,ILS
+English (India),en-IN,INR
+English (Jersey);,en-JE,GBP
+English (British Indian Ocean Territory);,en-IO,INR
+English (Jamaica);,en-JM,JMD
+English (Kenya);,en-KE,KES
+English (Kiribati),en-KI,AUD
+English (St. Kitts &amp; Nevis);,en-KN,
+English (India),en-IN,INR
+English (Cayman Islands),en-KY,
+English (St. Lucia),en-LC,
+English (Liberia);,en-LR,LRD
+English (Madagascar),en-MG,MGA
+English (Macau SAR China);,en-MO,CNY
+English (Northern Mariana Islands),en-MP,
+English (Lesotho),en-LS,LSL
+English (Marshall Islands),en-MH,
+English (Montserrat),en-MS,XCD
+English (Malta),en-MT,EUR
+English (Mauritius),en-MU,MUR
+English (Malta),en-MT,EUR
+English (Malawi);,en-MW,MWK
+English (Namibia);,en-NA,NAD
+English (Norfolk Island);,en-NF,AUD
+English (Netherlands),en-NL,
+English (Malaysia);,en-MY,MYR
+English (Nauru),en-NR,AUD
+English (Nigeria),en-NG,NGN
+English (New Zealand),en-NZ,NZD
+English (New Zealand),en-NZ,NZD
+English (Papua New Guinea),en-PG,GNF
+English (Philippines);,en-PH,
+English (Pakistan);,en-PK,PKR
+English (Philippines),en-PH,
+English (Niue);,en-NU,NZD
+English (Pitcairn Islands);,en-PN,NZD
+English (Puerto Rico),en-PR,USD
+English (Solomon Islands),en-SB,SBD
+English (Palau);,en-PW,USD
+English (Rwanda),en-RW,RWF
+English (Seychelles),en-SC,SCR
+English (Sudan),en-SD,
+English (Sweden),en-SE,SEK
+English (Singapore);,en-SG,SGD
+English (St. Helena),en-SH,
+English (Singapore),en-SG,SGD
+English (Slovenia),en-SI,EUR
+English (South Sudan),en-SS,SSP
+English (Sierra Leone),en-SL,SLE
+English (Swaziland);,en-SZ,SZL
+English (Turks &amp; Caicos Islands);,en-TC,
+English (Sint Maarten),en-SX,
+English (Tokelau),en-TK,NZD
+English (Trinidad &amp; Tobago),en-TT,
+English (Tonga),en-TO,TOP
+English (Tuvalu),en-TV,AUD
+English (Tanzania),en-TZ,
+English (Uganda),en-UG,UGX
+English (U.S. Outlying Islands),en-UM,
+English (United States);,en-US,
+English (United States),en-US,
+English (U.S. Virgin Islands),en-VI,
+English (British Virgin Islands);,en-VG,
+English (St. Vincent &amp; Grenadines),en-VC,
+English (Samoa),en-WS,WST
+English (Vanuatu),en-VU,VUV
+English (South Africa),en-ZA,ZAR
+English (South Africa);,en-ZA,ZAR
+English (Zimbabwe),en-ZW,ZWL
+Esperanto,eo,
+English (Zambia),en-ZM,ZMW
+Spanish (Argentina),es-AR,ARS
+Spanish,es,
+Spanish (Bolivia),es-BO,
+Spanish (Brazil),es-BR,BRL
+Spanish (Chile),es-CL,CLF
+Spanish (Belize),es-BZ,BZD
+Spanish (Cuba),es-CU,CUC
+Spanish (Costa Rica),es-CR,CRC
+Spanish (Dominican Republic),es-DO,XCD
+Spanish (Ecuador),es-EC,USD
+Spanish (Colombia),es-CO,COP
+Spanish (Equatorial Guinea),es-GQ,XAF
+Spanish (Ceuta &amp; Melilla,es-EA,
+Spanish (Guatemala),es-GT,GTQ
+Spanish (Honduras),es-HN,HNL
+Spanish (Spain),es-ES,EUR
+Spanish (Canary Islands),es-IC,
+Spanish (Mexico),es-MX,MXN
+Spanish (Nicaragua),es-NI,NIO
+Spanish (Peru),es-PE,PEN
+Spanish (Panama),es-PA,PAB
+Spanish (Puerto Rico),es-PR,USD
+Spanish (El Salvador),es-SV,SVC
+Spanish (Paraguay),es-PY,PYG
+Spanish (United States),es-US,
+Spanish (Uruguay),es-UY,UYI
+Estonian (Estonia),et-EE,EUR
+Estonian,et,EUR
+Spanish (Venezuela),es-VE,
+Ewondo,ewo,
+Basque (Spain),eu-ES,EUR
+Ewondo (Cameroon),ewo-CM,XAF
+Persian,fa,
+Basque;(eu),eu,
+Persian (Afghanistan),fa-AF,AFN
+Fulah,ff,
+Fulah (Cameroon,ff-CM,XAF
+Persian (Iran),fa-IR,
+Fulah (Mauritania),ff-MR,MRU
+Fulah (Guinea),ff-GN,GNF
+Fulah (Senegal),ff-SN,XOF
+Finnish (Finland),fi-FI,EUR
+Filipino (Philippines),fil-PH,
+Filipino,fil,
+Finnish,fi,
+Faroese (Faroe Islands),fo-FO,
+Faroese (Denmark),fo-DK,DKK
+French,fr,
+French (Belgium),fr-BE,EUR
+French (Burkina Faso),fr-BF,XOF
+Faroese,fo,
+French (Benin),fr-BJ,XOF
+French (St. Barthélemy),fr-BL,
+French (Congo - Kinshasa),fr-CD,
+French (Canada),fr-CA,CAD
+French (Burundi),fr-BI,BIF
+French (Congo - Brazzaville),fr-CG,
+French (Central African Republic),fr-CF,
+French (Switzerland),fr-CH,CHE
+French (Côte d’Ivoire),fr-CI,
+French (Djibouti),fr-DJ,DJF
+French (Cameroon),fr-CM,XAF
+French (Gabon),fr-GA,XAF
+French (Algeria),fr-DZ,DZD
+French (French Guiana),fr-GF,EUR
+French (France),fr-FR,EUR
+French (Guadeloupe),fr-GP,EUR
+French (Haiti),fr-HT,HTG
+French (Equatorial Guinea),fr-GQ,XAF
+French (Comoros),fr-KM,
+French (Morocco),fr-MA,MAD
+French (St. Martin),fr-MF,
+French (Luxembourg),fr-LU,EUR
+French (Guinea),fr-GN,GNF
+French (Madagascar),fr-MG,MGA
+French (Martinique),fr-MQ,EUR
+French (Mali),fr-ML,XOF
+French (Monaco),fr-MC,EUR
+French (Mauritania),fr-MR,MRU
+French (Mauritius),fr-MU,MUR
+French (New Caledonia),fr-NC,XPF
+French (French Polynesia),fr-PF,XPF
+French (Niger),fr-NE,
+French (St. Pierre &amp; Miquelon),fr-PM,
+French (Réunion),fr-RE,EUR
+French (Seychelles),fr-SC,SCR
+French (Rwanda),fr-RW,RWF
+French (Senegal),fr-SN,XOF
+French (Chad),fr-TD,XAF
+French (Togo),fr-TG,XOF
+French (Tunisia),fr-TN,TND
+French (Wallis &amp; Futuna),fr-WF,
+French (Vanuatu),fr-VU,VUV
+Friulian,fur,
+French (Mayotte),fr-YT,EUR
+French (Syria),fr-SY,
+Friulian (Italy),fur-IT,EUR
+Western Frisian (Netherlands),fy-NL,
+Irish,ga,
+Irish,ga,
+Western Frisian,fy,
+Irish (Ireland),ga-IE,EUR
+Irish (Ireland),ga-IE,EUR
+Galician,gl,
+Scottish Gaelic,gd,
+Scottish Gaelic (United Kingdom),gd-GB,
+Swiss German (Switzerland),gsw-CH,CHE
+Swiss German,gsw,
+Galician (Spain),gl-ES,EUR
+Swiss German (Liechtenstein);,gsw-LI,CHF
+Swiss German (France),gsw-FR,EUR
+Gujarati (India);,gu-IN,INR
+Gusii;,guz,
+Gujarati;,gu,
+Gusii (Kenya),guz-KE,KES
+Manx (Isle of Man),gv-IM,GBP
+Manx,gv,
+Hausa (Ghana),ha-GH,GHS
+Hausa,ha,
+Hausa (Niger);,ha-NE,
+Hausa (Nigeria);,ha-NG,NGN
+Hawaiian (United States),haw-US,
+Hebrew,he,
+Hebrew (Israel),he-IL,ILS
+Hindi (India),hi-IN,INR
+Hawaiian,haw,
+Croatian,hr,HRK
+Croatian (Bosnia &amp; Herzegovina),hr-BA,HRK
+Upper Sorbian,hsb,
+Upper Sorbian (Germany),hsb-DE,EUR
+Croatian (Croatia),hr-HR,HRK
+Hungarian,hu,
+Hungarian (Hungary),hu-HU,HUF
+Armenian,hy,AMD
+Hindi,hi,
+Armenian (Armenia);,hy-AM,AMD
+Sichuan Yi,ii,
+Igbo (Nigeria),ig-NG,NGN
+Sichuan Yi (China),ii-CN,CNY
+Icelandic,is,ISK
+Indonesian,in,IDR
+Indonesian (Indonesia),in-ID,IDR
+Icelandic (Iceland),is-IS,ISK
+Italian (Switzerland),it-CH,CHE
+Italian,it,
+Italian (Italy),it-IT,EUR
+Italian (San Marino),it-SM,EUR
+Igbo,ig,
+Hebrew,iw,
+Italian (Vatican City),it-VA,
+Japanese (Japan),ja-JP,JPY
+Hebrew (Israel),iw-IL,ILS
+Ngomba;,jgo,
+Japanese,ja,JPY
+Ngomba (Cameroon);,jgo-CM,XAF
+Georgian,ka,GEL
+Machame (Tanzania),jmc-TZ,
+Kabyle,kab,
+Machame;,jmc,
+Georgian (Georgia),ka-GE,GEL
+Kamba (Kenya);,kam-KE,KES
+Kabyle (Algeria),kab-DZ,DZD
+Makonde (Tanzania),kde-TZ,
+Kamba,kam,
+Makonde,kde,
+Kabuverdianu,kea,
+Kabuverdianu (Cape Verde),kea-CV,
+Koyra Chiini (Mali),khq-ML,XOF
+Koyra Chiini,khq,
+Kikuyu (Kenya),ki-KE,KES
+Kazakh (Kazakhstan),kk-KZ,KZT
+Kikuyu,ki,
+Kazakh,kk,
+Kako (Cameroon),kkj-CM,XAF
+Kalaallisut,kl,
+Kalaallisut (Greenland),kl-GL,DKK
+Kalenjin,kln,
+Kalenjin (Kenya),kln-KE,KES
+Khmer,km,
+Kannada,kn,
+Khmer (Cambodia),km-KH,KHR
+Kannada (India),kn-IN,INR
+Korean,ko,
+Kako,kkj,
+Korean,ko,
+Korean (South Korea),ko-KR,
+Korean (North Korea),ko-KP,
+Konkani,kok,
+Korean (South Korea),ko-KR,
+Kashmiri (India),ks-IN,INR
+Konkani (India),kok-IN,INR
+Kashmiri,ks,
+Shambala,ksb,
+Shambala (Tanzania),ksb-TZ,
+Bafia (Cameroon),ksf-CM,XAF
+Bafia,ksf,
+Colognian (Germany),ksh-DE,EUR
+Cornish (United Kingdom),kw-GB,
+Colognian,ksh,
+Langi,lag,
+Cornish,kw,
+Langi (Tanzania),lag-TZ,
+Kyrgyz (Kyrgyzstan),ky-KG,KGS
+Kyrgyz,ky,
+Lithuanian (Lithuania),lt-LT,EUR
+Lithuanian,lt,EUR
+Luxembourgish,lb,EUR
+Latvian,lv,EUR
+Luxembourgish (Luxembourg),lb-LU,EUR
+Ganda (Uganda),lg-UG,UGX
+Latvian (Latvia),lv-LV,EUR
+Macedonian,mk,
+Macedonian (Macedonia),mk-MK,
+Malay (Malaysia),ms-MY,MYR
+Ganda;,lg,
+Maltese,mt,
+Maltese (Malta),mt-MT,EUR
+Malay,ms,
+Dutch (Belgium),nl-BE,EUR
+Dutch (Netherlands),nl-NL,
+Norwegian,no,
+Norwegian (Norway Nynorsk),no-NO_NY,NOK
+Polish,pl,
+Norwegian (Norway),no-NO,NOK
+Polish (Poland),pl-PL,PLN
+Dutch,nl,
+Portuguese,pt,
+Portuguese (Angola);,pt-AO,AOA
+Portuguese (Switzerland);,pt-CH,CHE
+Portuguese (Brazil),pt-BR,BRL
+Portuguese (Equatorial Guinea);,pt-GQ,XAF
+Portuguese (Cape Verde),pt-CV,
+Portuguese (Guinea-Bissau);,pt-GW,GNF
+Portuguese (Macau SAR China),pt-MO,CNY
+Portuguese (Portugal),pt-PT,EUR
+Portuguese (Mozambique);,pt-MZ,MZN
+Portuguese (São Tomé &amp; Príncipe);,pt-ST,
+Portuguese (Timor-Leste),pt-TL,USD
+Romanian,ro,OMR
+Romanian (Romania),ro-RO,OMR
+Russian (Kyrgyzstan);,ru-KG,KGS
+Portuguese (Luxembourg),pt-LU,EUR
+Russian,ru,
+Russian (Kazakhstan);,ru-KZ,KZT
+Russian (Belarus);,ru-BY,BYN
+Russian (Ukraine);,ru-UA,UAH
+Russian (Russia);,ru-RU,
+Slovak (Slovakia),sk-SK,EUR
+Slovak,sk,
+Russian (Moldova),ru-MD,
+Slovenian (Slovenia),sl-SI,EUR
+Albanian,sq,ALL
+Slovenian,sl,EUR
+Albanian (Albania),sq-AL,ALL
+Serbian (Bosnia and Herzegovina),sr-BA,BAM
+Serbian,sr,RSD
+Serbian (Serbia and Montenegro),sr-CS,EUR
+Serbian (Montenegro),sr-ME,EUR
+Swedish,sv,
+Serbian (Serbia),sr-RS,RSD
+Thai (Thailand),th-TH,THB
+Swedish (Sweden),sv-SE,SEK
+Thai (Thailand),th-TH_TH,THB
+Thai,th,
+Turkish,tr,
+Turkish (Turkey),tr-TR,TRY
+Ukrainian,uk,
+Ukrainian (Ukraine),uk-UA,UAH
+Vietnamese (Vietnam),vi-VN,
+Chinese (Simplified);(zh-Hans),zh-Hans,
+Chinese (Simplified, Hong Kong SAR China),
+Chinese,zh,
+Vietnamese,vi,
+Chinese (Simplified, Macau SAR China),
+Chinese (Traditional, Hong Kong SAR China),
+Chinese (Traditional),zh-Hant,
+Chinese (Simplified, Singapore)&nbsp;,
+Chinese (Traditional, Macau SAR China),
+Chinese (Simplified, China)&nbsp;(zh-Hans-CN),
+Chinese (Traditional, Taiwan),
+,,
+Zulu,zu,
+Zulu (South Africa),zu-ZA,ZAR
